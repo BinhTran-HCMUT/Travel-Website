@@ -1,4 +1,4 @@
-# Travel_Website_Database
+# Travel_Website
 
 This project involves creating a database and web interface for a travel company. The backend is implemented in PHP, while the frontend utilizes Bootstrap framework. The project is designed to run on XAMPP, a popular open-source web server solution stack.
 
